@@ -3,5 +3,5 @@
   "dbUrl": "mongodb+srv://root:root@icloud.eyrs9co.mongodb.net/icloud?retryWrites=true&w=majority",
   "secretKey": "mern-secret-key",
   "filePath": "/Users/admin/WebstormProjects/mern-icloud_js/server/files",
-  "staticPath": "/Users/admin/WebstormProjects/mern-icloud_js/server/static"
+  "staticPath": "/app/static"
 }
